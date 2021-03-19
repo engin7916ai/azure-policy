@@ -1,7 +1,13 @@
 ---
 name: Problem with a policy sample
-about: If you discover a problem, bug, or enhancement with a policy sample in this repository.
+about: If you discover a problem, bug, or enhancement with a policy sample in this
+  repository.
+title: ''
+labels: ''
+assignees: ''
+
 ---
+
 <!--
     Your feedback and support of these samples is greatly appreciated, thanks for contributing!
 
